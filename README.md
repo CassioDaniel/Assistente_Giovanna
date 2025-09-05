@@ -1,10 +1,10 @@
-# 🎙️ Assistente Virtual por Voz (Giovana)
+# 🎙️ Assistente Virtual por Voz (Giovanna)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-Um assistente virtual simples em **Python**, ativado por comando de voz (hotword **"giovana"**), capaz de responder a perguntas, reproduzir áudios, tocar músicas no YouTube, trazer últimas notícias e informar a previsão do tempo.
+Um assistente virtual simples em **Python**, ativado por comando de voz (hotword **"giovanna"**), capaz de responder a perguntas, reproduzir áudios, tocar músicas no YouTube, trazer últimas notícias e informar a previsão do tempo.
 
 ---
 
